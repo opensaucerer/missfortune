@@ -1,0 +1,6 @@
+.env.example
+.gitignore
+readme.md
+nodemon.json
+dist
+node_modules
