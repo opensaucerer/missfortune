@@ -4,7 +4,7 @@ A not-so-lightweight GraphQL-first framework for building fast and progressive w
 
 > Don't fret! You can as well `REST` knowing that all `methods` are underway.
 
-**Built-ins**
+## Built-ins
 
 <details>
 <summary>Session - JWT</summary>
